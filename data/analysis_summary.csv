@@ -1,0 +1,15 @@
+metric,value
+Analysis_Date,2025-08-06
+Methodology,Henderson et al. (2012)
+Years_Analyzed,2012-2022
+Total_Provinces,18
+Total_Records,198
+GDP_Light_R2,0.7502
+Light_Elasticity,0.6211
+Average_GDP_CAGR,4.73%
+Light_Weight,0.6
+Population_Weight,0.3
+Area_Weight,0.1
+Average_Gini,0.3
+VIIRS_Files_Processed,11
+Maps_Created,11

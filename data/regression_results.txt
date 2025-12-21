@@ -1,0 +1,10 @@
+Laos GDP-Light Regression Analysis
+Henderson et al. (2012) Methodology
+============================================================
+\nModel: log(GDP) ~ log(Light)
+Light elasticity = 0.6211
+R² = 0.7502
+Intercept = 15.1579
+Sample size = 198 observations
+Years = 2012-2022
+Provinces = 18
